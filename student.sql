@@ -1,0 +1,14 @@
+CREATE DATABASE student;
+USE student;
+
+CREATE TABLE class (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    name VARCHAR(100) NOT NULL
+);
+
+CREATE TABLE teacher (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    name VARCHAR(100) NOT NULL,
+    age INT NOT NULL,
+    country VARCHAR(255) NOT NULL
+);
