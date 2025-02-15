@@ -1,9 +1,45 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15" version="26.0.14">
   <diagram name="Trang-1" id="pr74vR1_tjenkq_Aeb3x">
-    <mxGraphModel>
+    <mxGraphModel dx="1761" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hDGLEM9OkMzIGsEbGWUy-23" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="70" width="620" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="hDGLEM9OkMzIGsEbGWUy-24" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="70" width="10" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="hDGLEM9OkMzIGsEbGWUy-25" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="70" width="10" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="hDGLEM9OkMzIGsEbGWUy-26" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="110" width="620" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="hDGLEM9OkMzIGsEbGWUy-27" value="Form Phản hồi" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="70" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hDGLEM9OkMzIGsEbGWUy-28" value="Khách hàng" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="70" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hDGLEM9OkMzIGsEbGWUy-29" value="Hệ thống" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="70" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hDGLEM9OkMzIGsEbGWUy-30" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="170" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hDGLEM9OkMzIGsEbGWUy-31" value="Chọn Sản phẩm muốn đánh giá" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="240" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hDGLEM9OkMzIGsEbGWUy-32" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="290" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hDGLEM9OkMzIGsEbGWUy-33" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="290" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hDGLEM9OkMzIGsEbGWUy-34" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="350" width="110" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
