@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+.gallery img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+div.gallery:hover {
+    border: 1px solid #777;
+}
+.desc {
+    padding: 10px;
+    text-align: center;
+}
+* {
+    box-sizing: border-box;
+}
+.gallery-item {
+    padding: 0 6px;
+    overflow: hidden;
+}
+p{
+    padding: 6px;
+    margin-top: 10px;
+}
+.gallery a:hover {
+    opacity: 0.8; /* Giảm độ mờ nhẹ khi hover */
+}
+.gallery a:hover img {
+    transform: scale(1.05); /* Phóng to ảnh 5% */
+    transition: transform 0.3s ease; /* Hiệu ứng mượt mà */
+}
+.gallery a:hover .gallery-item {
+    border: 1px solid #777; /* Viền xám khi hover */
+}
+@media only screen and (max-width: 700px) {
+    .gallery-item {
+        max-width: 50%; /* 2 ảnh */
+    }
+}
+@media only screen and (max-width: 500px) {
+    .gallery-item {
+        max-width: 100%; /* 1 ảnh */
+    }
+}
